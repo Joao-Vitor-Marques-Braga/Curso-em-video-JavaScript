@@ -1,0 +1,17 @@
+body{
+    background: rgb(255, 167, 2);
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+input{
+    border-radius: 5px;
+    font-size: 40px;
+}
+
+button{
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    
+}
