@@ -1,0 +1,36 @@
+body{
+    background: rgb(26, 147, 228);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    text-align: center;
+    color: white;
+}
+
+section{
+    background: white;
+    width: 500px;
+    border-radius: 15px;
+    color: black;
+    margin: auto;
+    padding: 15px;
+}
+
+#botaozinho{
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    width: 120px;
+    height: 25px;
+    box-shadow: black;
+}
+
+footer{
+    color: white;
+    text-align: center;
+}
+
+#result{
+    text-align: center;
+}
